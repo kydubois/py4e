@@ -97,7 +97,7 @@ Win: spdump.py
 
 You can run sprank.py as many times as you like and it will simply refine
 the page rank the more times you run it.  You can even run sprank.py a few times
-and then go spider a few more pages sith spider.py and then run sprank.py
+and then go spider a few more pages with spider.py and then run sprank.py
 to converge the page ranks.
 
 If you want to restart the Page Rank calculations without re-spidering the 
